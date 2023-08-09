@@ -1,0 +1,15 @@
+.app-container {
+  background-image: url('Assets/background2.jpeg');
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  /* opacity: 0.4; */
+}
+.form-container {
+  background: linear-gradient(to right, #e2ecec, #ffffff); 
+  /* Grayish gradient background */
+  /* Add any other desired styles for the form container */
+}
+body {
+  margin: 0;
+  padding: 0;
+}
